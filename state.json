@@ -1,0 +1,2149 @@
+{
+  "https://www.jumbo.com.ar#pro": {
+    "estado": "no_publicado",
+    "precio": null,
+    "producto": "PS5 Pro",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.disco.com.ar#pro": {
+    "estado": "no_publicado",
+    "precio": null,
+    "producto": "PS5 Pro",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.vea.com.ar#pro": {
+    "estado": "no_publicado",
+    "precio": null,
+    "producto": "PS5 Pro",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.cetrogar.com.ar#pro": {
+    "estado": "no_publicado",
+    "precio": null,
+    "producto": "PS5 Pro",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.naldo.com.ar#pro": {
+    "estado": "no_publicado",
+    "precio": null,
+    "producto": "PS5 Pro",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.provinciacompras.com.ar#pro": {
+    "estado": "no_publicado",
+    "precio": null,
+    "producto": "PS5 Pro",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.megatone.net/?s=playstation+5#digital": {
+    "estado": "no_publicado",
+    "precio": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.megatone.net/?s=playstation+5#pro": {
+    "estado": "no_publicado",
+    "precio": null,
+    "producto": "PS5 Pro",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://casadelaudio.com/tecnologia/consolas/play-station-5.html#pro": {
+    "estado": "no_publicado",
+    "precio": null,
+    "producto": "PS5 Pro",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/sony-playstation-5-digital-edition-825gb-slim---2-joysticks-dualsense-originales-1774516/p": {
+    "estado": "disponible",
+    "precio": 3599998,
+    "cuotas": {
+      "n": 12,
+      "valor": 300000,
+      "sin_interes": true,
+      "total": 3599998,
+      "tarjetas": [
+        "American Express",
+        "Cabal",
+        "Mastercard",
+        "Tarjeta Carrefour Mastercard",
+        "Visa"
+      ]
+    },
+    "titulo": "Sony PlayStation 5 Digital Edition 825GB Slim + 2 Joysticks DualSense Originales",
+    "vendedor": "Demelf",
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/sony-playstation-5-digital-edition-825gb-slim-con-1-joystick-dualsense-original-1774517/p": {
+    "estado": "disponible",
+    "precio": 2399998,
+    "cuotas": {
+      "n": 3,
+      "valor": 799999,
+      "sin_interes": true,
+      "total": 2399998,
+      "tarjetas": [
+        "Tarjeta Carrefour Mastercard"
+      ]
+    },
+    "titulo": "Sony PlayStation 5 Digital Edition 825GB Slim con 1 Joystick DualSense Original",
+    "vendedor": "Demelf",
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/consola-play-station-5-hw-2115-cfi-2115a01x-standard-gt7-astro-argentina/p": {
+    "estado": "disponible",
+    "precio": 2099999,
+    "cuotas": {
+      "n": 12,
+      "valor": 175000,
+      "sin_interes": true,
+      "total": 2099999,
+      "tarjetas": [
+        "American Express",
+        "Cabal",
+        "Mastercard",
+        "Tarjeta Carrefour Mastercard",
+        "Visa"
+      ]
+    },
+    "titulo": "Consola Play Station 5 hw 2115 cfi 2115a01x standard gt7 astro argentina",
+    "vendedor": "CARREFOUR",
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/consola-sony-playstation-5-ps5-edicion-estandard/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Sony PlayStation 5 PS5 Edición Estándard",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/consola-playstation-5-hw-2115-cfi-2115b01x-digital-gt7-astro-boy/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation 5 HW 2115 (CFI 2115B01X) DIGITAL GT7 astro boy",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/consola-play-station-5-cfi-1115a/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Play Station 5 CFI 1115A",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/consola-playstation-5-slim-standard-bundle-astro-bot-y-gt7-1753875/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Slim Standard Bundle Astro Bot Y Gt7",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/consola-playstation-5v-sony-1tb-edici-n-standard-s-/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola playstation 5v Sony 1tb edición standard s",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/consola-playstation-ps5-pro-digital-2tb-cfi-7020-/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation ps5 pro digital 2tb cfi 7020",
+    "vendedor": null,
+    "producto": "PS5 Pro",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/consola-playstation-5-edicion-standard-slim-cfi-20/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 Edición Standard Slim CFI 20",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/consola-playstation-5-sony-1tb-edicion-digital-slim/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 Sony 1TB - Edición digital Slim",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/consola-play-station-5-hw-2015-cfi-2015b01x-digital-gt7-astro-argentina/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Play Station 5 hw 2015 cfi 2015b01x digital gt7 astro argentina",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/consola-ps5-digital---juegos-astro-bot---gran-turismo-7-blanco-1779604/p": {
+    "estado": "disponible",
+    "precio": 2137999,
+    "cuotas": {
+      "n": 3,
+      "valor": 712666,
+      "sin_interes": true,
+      "total": 2137999,
+      "tarjetas": [
+        "Tarjeta Carrefour Mastercard"
+      ]
+    },
+    "titulo": "Consola Ps5 Digital + Juegos Astros Bot + Gran Turismo 7 Blanco",
+    "vendedor": "Premium MPM",
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/consola-ps5-hw-1215-standard-arg/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PS5 HW 1215 STANDARD ARG",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/consola-ps5-hw-digital-stand-alone-1/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 hw digital stand alone",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/consola-ps5-hw-digital-god-of-war-bundle/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PS5 HW digital God Of  War Bundle",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.carrefour.com.ar/consola-ps5-hw-1215-god-of-war-standard-arg/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PS5 HW 1215 God of  War STANDARD ARG",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.jumbo.com.ar/ps5-consola-playstation-5-hw-standard-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Ps5 Consola Playstation 5 Hw Standard",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.jumbo.com.ar/consola-ps5-digital-bundle-gt-7-y-astrobot-sony-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation 5 Slim 1 Tb Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.jumbo.com.ar/consola-ps5-playstation-hw-standard-juego-god-of-war-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation 5 God of War Ragnarök Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.jumbo.com.ar/consola-ps5-playstation-5-slim-standard-super-bundle-sony-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation 5 con Returnal y Ratchet & Clank Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.jumbo.com.ar/consola-ps5-hw-sony-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation 5 1 Tb con Astro Bot y Gran Turismo 7 Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.jumbo.com.ar/consola-ps5-playstation-hw-standard-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Playstation Hw Standard.",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.jumbo.com.ar/ps5-consola-plasytation-5-hw-digital-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Ps5 Consola Plasytation 5 Hw Digital.",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.jumbo.com.ar/consola-ps5-hw-digital-juego-gowr/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Hw Digital  Juego Gowr",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.jumbo.com.ar/consola-ps5-hw-standard-juego-god-of-war/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Hw Standard + Juego God Of War",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.jumbo.com.ar/consola-ps5-blanco-sony-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola  Ps5 Blanco Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.jumbo.com.ar/consola-sony-ps5-825gb-hw-2115-cfi-2115b01x-digital-gt7-astro/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Sony Ps5 825gb Hw 2115 Cfi-2115b01x Digital Gt7 Astro",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.jumbo.com.ar/consola-sony-ps5-1-tb-estandar-con-astro-bot-y-gran-turismo-7/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Sony Ps5 1 Tb Estandar Con Astro Bot Y Gran Turismo 7",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.jumbo.com.ar/consola-ps5-bundle-2015-edicion-digital-sony-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Bundle 2015 Edicion Digital Sony",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.jumbo.com.ar/consola-ps5-standard-1-joystick-1-juego-de-the-last-of-us/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Standard + 1 Joystick + 1 Juego De The Last Of Us",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.disco.com.ar/ps5-consola-playstation-5-hw-standard-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Ps5 Consola Playstation 5 Hw Standard",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.disco.com.ar/consola-ps5-digital-bundle-gt-7-y-astrobot-sony-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation 5 Slim 1 Tb Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.disco.com.ar/consola-ps5-playstation-hw-standard-juego-god-of-war-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation 5 God of War Ragnarök Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.disco.com.ar/consola-ps5-playstation-5-slim-standard-super-bundle-sony-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation 5 con Returnal y Ratchet & Clank Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.disco.com.ar/consola-ps5-hw-sony-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation 5 1 Tb con Astro Bot y Gran Turismo 7 Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.disco.com.ar/consola-ps5-playstation-hw-standard-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Playstation Hw Standard.",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.disco.com.ar/ps5-consola-plasytation-5-hw-digital-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Ps5 Consola Plasytation 5 Hw Digital.",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.disco.com.ar/consola-ps5-hw-digital-juego-gowr/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Hw Digital  Juego Gowr",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.disco.com.ar/consola-ps5-hw-standard-juego-god-of-war/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Hw Standard + Juego God Of War",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.disco.com.ar/consola-ps5-blanco-sony-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola  Ps5 Blanco Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.disco.com.ar/consola-sony-ps5-825gb-hw-2115-cfi-2115b01x-digital-gt7-astro/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Sony Ps5 825gb Hw 2115 Cfi-2115b01x Digital Gt7 Astro",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.disco.com.ar/consola-sony-ps5-1-tb-estandar-con-astro-bot-y-gran-turismo-7/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Sony Ps5 1 Tb Estandar Con Astro Bot Y Gran Turismo 7",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.disco.com.ar/consola-ps5-bundle-2015-edicion-digital-sony-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Bundle 2015 Edicion Digital Sony",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.disco.com.ar/consola-ps5-standard-1-joystick-1-juego-de-the-last-of-us/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Standard + 1 Joystick + 1 Juego De The Last Of Us",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.vea.com.ar/ps5-consola-playstation-5-hw-standard-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Ps5 Consola Playstation 5 Hw Standard",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.vea.com.ar/consola-ps5-digital-bundle-gt-7-y-astrobot-sony-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation 5 Slim 1 Tb Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.vea.com.ar/consola-ps5-playstation-hw-standard-juego-god-of-war-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation 5 God of War Ragnarök Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.vea.com.ar/consola-ps5-playstation-5-slim-standard-super-bundle-sony-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation 5 con Returnal y Ratchet & Clank Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.vea.com.ar/consola-ps5-hw-sony-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation 5 1 Tb con Astro Bot y Gran Turismo 7 Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.vea.com.ar/consola-ps5-playstation-hw-standard-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Playstation Hw Standard.",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.vea.com.ar/ps5-consola-plasytation-5-hw-digital-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Ps5 Consola Plasytation 5 Hw Digital.",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.vea.com.ar/consola-ps5-hw-digital-juego-gowr/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Hw Digital  Juego Gowr",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.vea.com.ar/consola-ps5-hw-standard-juego-god-of-war/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Hw Standard + Juego God Of War",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.vea.com.ar/consola-ps5-blanco-sony-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola  Ps5 Blanco Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.vea.com.ar/consola-sony-ps5-825gb-hw-2115-cfi-2115b01x-digital-gt7-astro/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Sony Ps5 825gb Hw 2115 Cfi-2115b01x Digital Gt7 Astro",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.vea.com.ar/consola-sony-ps5-1-tb-estandar-con-astro-bot-y-gran-turismo-7/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Sony Ps5 1 Tb Estandar Con Astro Bot Y Gran Turismo 7",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.vea.com.ar/consola-ps5-bundle-2015-edicion-digital-sony-2/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Bundle 2015 Edicion Digital Sony",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.vea.com.ar/consola-ps5-standard-1-joystick-1-juego-de-the-last-of-us/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Standard + 1 Joystick + 1 Juego De The Last Of Us",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-ps5-playstation-sony-slim-bundle-2---incluye-2-juegos--astrobot---gran-turismo-7--850411/p": {
+    "estado": "disponible",
+    "precio": 1799999,
+    "cuotas": {
+      "n": 18,
+      "valor": 123580,
+      "sin_interes": false,
+      "total": 2224440,
+      "tarjetas": [
+        "Mastercard",
+        "Visa"
+      ]
+    },
+    "titulo": "Consola PS5 Sony PlayStation 5 Slim Standard Bundle 2 + Incluye 2 juegos (AstroBot & Gran Turismo 7)",
+    "vendedor": "Coppel S.A.",
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-ps5-sony-playstation-digital-slim-bundle-2---incluye-2-juegos--astrobot---gran-turismo-7--852244/p": {
+    "estado": "disponible",
+    "precio": 1599999,
+    "cuotas": {
+      "n": 18,
+      "valor": 109849,
+      "sin_interes": false,
+      "total": 1977282,
+      "tarjetas": [
+        "Mastercard",
+        "Visa"
+      ]
+    },
+    "titulo": "Consola PS5 Sony PlayStation Digital Slim Bundle 2 + Incluye 2 juegos (AstroBot & Gran Turismo 7)",
+    "vendedor": "Coppel S.A.",
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-ps5-sony-playstation-digital-slim-bundle-2---incluye-2-juegos--astrobot---gran-turismo-7--854883/p": {
+    "estado": "disponible",
+    "precio": 1899999,
+    "cuotas": {
+      "n": 9,
+      "valor": 211111,
+      "sin_interes": true,
+      "total": 1899999,
+      "tarjetas": [
+        "American Express",
+        "Cabal",
+        "Mastercard",
+        "Visa"
+      ]
+    },
+    "titulo": "Consola PS5 Sony PlayStation Digital Slim Bundle 2 + Incluye 2 juegos (AstroBot & Gran Turismo 7)",
+    "vendedor": "Coppel S.A.",
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-playstation-5-ps5-digital-edition-830887/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Ps5 Digital Edition",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-playstation-5-standard-ps5-hw-sony-834173/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Standard Ps5 Hw Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-playstation-5-ps5-standard-833304/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation 5 PS5 Standard",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-playstation-5-standard-ps5---videojuego-horizon-forbidden-west-834122/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Standard Ps5 + Videojuego Horizon Forbidden West",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-playstation-5-standard---videojuego-ps5-god-of-war-ragnarok--838918/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Standard + Videojuego PS5 God of War Ragnarok",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-playstation-5-standard---videojuego-ps5-god-of-war-ragnarok-840866/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Standard + Videojuego PS5 God of War Ragnarok",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-playstation-5-standard---videojuego-ps5-god-of-war-ragnarok--839159/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Standard + Videojuego PS5 God of War Ragnarok",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-playstation-5-digital-ps5---videojuego-god-of-war-ragnarok--838926/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Digital Ps5 + Videojuego God of War Ragnarok",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-sony-playstation-5-digital-pro-cfi-7020-2tb-ps5-849987/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Sony Playstation 5 Digital Pro Cfi-7020 2TB Ps5",
+    "vendedor": null,
+    "producto": "PS5 Pro",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-playstation-5-digital-bundle-marvel-s-wolverine-edicion-limitada-battle-yellow-855235/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation 5 Digital Bundle Marvel's Wolverine Edición Limitada Battle Yellow",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/playstation-5-ps5-digital-edition-consola-sony-828602/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 Ps5 Digital Edition Consola Sony",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/playstation-5-standard-edition-ps5-hw-consola-sony-828742/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 Standard Edition Ps5 Hw Consola Sony",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-ps5-sony-playstation-5-slim-digital-bundle--845973/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Sony Playstation 5 Slim Digital Bundle",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-ps5-sony-playstation-5-slim-digital-bundle--847178/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Sony Playstation 5 Slim Digital Bundle",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-ps5-sony-playstation-5-slim-1tb-standard-bundle-847224/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Sony Playstation 5 Slim 1tb Standard Bundle",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-ps5-sony-playstation-5-slim-standard-bundle-2---incluye-2-juegos--astrobot---gran-turismo-7--854891/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PS5 Sony PlayStation 5 Slim Standard Bundle 2 + Incluye 2 juegos (AstroBot & Gran Turismo 7)",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-ps5-sony-playstation-5-slim-digital-bundle-848514/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PS5 PlayStation 5 Standard Sony Slim - Incluye 2 juegos (Returnal + Ratchet & Clank)",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/playstation-5-standard-edition-ps5-hw-831026/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 Standard Edition Ps5 Hw",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/playstation-5-standard-edition-ps5-hw-831778/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 Standard Edition Ps5 Hw",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/playstation-5-standard-edition-ps5-hw-826642/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 Standard Edition Ps5 Hw",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-ps5-sony-playstation-5-slim-digital-bundle--847216/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PS5 PlayStation 5 Digital Sony Slim - Incluye 2 juegos (Returnal + Ratchet & Clank)",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-ps5-playstation-5-standard-sony-slim---incluye-2-juegos--returnal---ratchet---clank--849804/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PS5 PlayStation 5 Standard Sony Slim - Incluye 2 juegos (Returnal + Ratchet & Clank)",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-ps5-sony-playstation-5-slim-1tb-standard-bundle-845744/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PS5 Sony PlayStation Slim 1 TB Standard Bundle",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-ps5-playstation-5-digital-sony-slim---incluye-2-juegos--returnal---ratchet---clank--849782/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PS5 PlayStation 5 Digital Sony Slim - Incluye 2 juegos (Returnal + Ratchet & Clank)",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.coppel.com.ar/consola-ps5-sony-pro-digital--849715/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Sony PS5 PlayStation® 5 Pro",
+    "vendedor": null,
+    "producto": "PS5 Pro",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.oncity.com/consola-playstation-5-digital-edition-cfi-2100-825gb-166279/p": {
+    "estado": "disponible",
+    "precio": 2131104,
+    "cuotas": {
+      "n": 18,
+      "valor": 241777,
+      "sin_interes": false,
+      "total": 4351993,
+      "tarjetas": [
+        "Cabal",
+        "Mastercard",
+        "Visa"
+      ]
+    },
+    "titulo": "Consola PlayStation 5 Digital Edition CFI 2100 825GB",
+    "vendedor": "GLIC",
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.oncity.com/consola-sony-playstation-5-standard-825gb-digital-con-joystick-148498/p": {
+    "estado": "disponible",
+    "precio": 1999935,
+    "cuotas": {
+      "n": 6,
+      "valor": 333322,
+      "sin_interes": true,
+      "total": 1999935,
+      "tarjetas": [
+        "Mastercard",
+        "Visa"
+      ]
+    },
+    "titulo": "Consola Sony Playstation 5 Standard 825Gb Digital con Joystick",
+    "vendedor": "AFFARI",
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.oncity.com/playstation-5-pro-2-tb-148488/p": {
+    "estado": "disponible",
+    "precio": 3250000,
+    "cuotas": {
+      "n": 18,
+      "valor": 368718,
+      "sin_interes": false,
+      "total": 6636925,
+      "tarjetas": [
+        "Mastercard",
+        "Visa"
+      ]
+    },
+    "titulo": "PlayStation 5 Pro 2 TB",
+    "vendedor": "AFFARI",
+    "producto": "PS5 Pro",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.oncity.com/consola-ps5-digital-sony-hw-2115-825-gb-blanco-157441/p": {
+    "estado": "disponible",
+    "precio": 1899999,
+    "cuotas": {
+      "n": 9,
+      "valor": 211111,
+      "sin_interes": true,
+      "total": 1899999,
+      "tarjetas": [
+        "Visa"
+      ]
+    },
+    "titulo": "Consola Ps5 Digital Sony Hw 2115 825 Gb Blanco",
+    "vendedor": "On City",
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.oncity.com/consola-ps5-estandard-sony-hw-2115-st-gt7-astro-1-tb-blanco-157505/p": {
+    "estado": "disponible",
+    "precio": 2099999,
+    "cuotas": {
+      "n": 18,
+      "valor": 116667,
+      "sin_interes": true,
+      "total": 2099999,
+      "tarjetas": [
+        "Mastercard"
+      ]
+    },
+    "titulo": "Consola Ps5 Estandard Sony Hw 2115 St Gt7 Astro 1 Tb Blanco",
+    "vendedor": "On City",
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.oncity.com/consola-ps5-digital-sony-ps5-hw-2015-1-tb-blanco---2-juegos-astrobot-y-gran-turismo-7-156017/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Digital Sony Ps5 Hw 2015 1 Tb Blanco + 2 Juegos Astrobot y Gran Turismo 7",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.oncity.com/consola-ps5-digital-sony-marvels-wolverine-battle-yellow-825-gb-amarillo---negro-158981/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Digital Sony Marvels Wolverine Battle Yellow 825 Gb Amarillo / Negro",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.oncity.com/consola-ps5-standard-sony-bundle-1-tb-blanco---2-juegos-astrobot-y-gran-turismo-7-155265/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Standard Sony Bundle 1 Tb Blanco + 2 Juegos Astrobot y Gran Turismo 7",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.cetrogar.com.ar/consola-ps5-playstation-digital-bundle-gt7-astrobot-el3020/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PS5 PlayStation Digital Bundle (GT7 + AstroBot)",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.cetrogar.com.ar/consola-ps5-playstation-standard-bundle-gt7-astrobot-el3000/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PS5 PlayStation standard bundle (gt7 + astrobot)",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.cetrogar.com.ar/consola-playstation-ps5-digital-bundle-gt7---astrobot-825gb-el3034/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PlayStation PS5 Digital Bundle GT7 + AstroBot 825GB",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.cetrogar.com.ar/consola-sony-playstation-5-ps5-edicion-estandar-bundle-2-latam-el3035/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Sony PlayStation 5 PS5 Edición Estándar Bundle 2 LATAM",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.cetrogar.com.ar/consola-ps5-playstation-5-standard--sony-slim-incluye-2-juegos-returnal-ratchet-clank-el2952/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola PS5 PlayStation 5 Standard Sony Slim con 2 juegos Returnal y Ratchet Clank",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.naldo.com.ar/ps5-hw-standard-1tb-ssd-slim-astro-gt7-506170/p": {
+    "estado": "disponible",
+    "precio": 2099999,
+    "cuotas": {
+      "n": 6,
+      "valor": 350000,
+      "sin_interes": true,
+      "total": 2099999,
+      "tarjetas": [
+        "Mastercard",
+        "Naranja",
+        "Visa"
+      ]
+    },
+    "titulo": "Playstation 5 Sony Hw Standard 1tb Ssd Slim Astro Gt7",
+    "vendedor": "Naldo Lombardi SA Arg",
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.naldo.com.ar/ps5-hw-digital-1tb-ssd-slim-astro-gt7-506171/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 Sony Hw Digital 825 Gb Ssd Slim Astro Gt7",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.castillo.com.ar/consola-p-video-juegsony-ps5-dig-825gb-gt7-astro-bot-9023 -/p": {
+    "estado": "disponible",
+    "precio": 2024999,
+    "cuotas": {
+      "n": 18,
+      "valor": 112500,
+      "sin_interes": true,
+      "total": 2024999,
+      "tarjetas": [
+        "Mastercard"
+      ]
+    },
+    "titulo": "Consola Sony PlayStation 5 Digital  ASTRO BOT Gran Turismo 7 SSD 825GB",
+    "vendedor": "Castillo SACIFIA",
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.castillo.com.ar/consola-p-video-juegsony-ps5-stand-1tb-gt7-astro-bot-9023 - -/p": {
+    "estado": "disponible",
+    "precio": 2213999,
+    "cuotas": {
+      "n": 18,
+      "valor": 123000,
+      "sin_interes": true,
+      "total": 2213999,
+      "tarjetas": [
+        "Mastercard"
+      ]
+    },
+    "titulo": "Consola Sony PlayStation 5 Standard ASTRO BOT Gran Turismo 7 SSD 1TB",
+    "vendedor": "Castillo SACIFIA",
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.castillo.com.ar/consola-p-video-juego-sony-ps5-hw-ltm-1tb-dig-gt7-astro-bot/p": {
+    "estado": "disponible",
+    "precio": 2076999,
+    "cuotas": {
+      "n": 18,
+      "valor": 115389,
+      "sin_interes": true,
+      "total": 2076999,
+      "tarjetas": [
+        "Mastercard"
+      ]
+    },
+    "titulo": "Consola Sony PlayStation 5 Slim Digital Bundle ASTRO BOT  Gran Turismo 7  SSD 825GB",
+    "vendedor": "Castillo SACIFIA",
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.castillo.com.ar/consola-p-video-juego-sony-ps5-pro-b01-arg-2tb-ssd-4k-hdr/p": {
+    "estado": "disponible",
+    "precio": 3001999,
+    "cuotas": {
+      "n": 18,
+      "valor": 166778,
+      "sin_interes": true,
+      "total": 3001999,
+      "tarjetas": [
+        "Mastercard"
+      ]
+    },
+    "titulo": "Consola Sony PlayStation 5 Pro – Edición Digital • SSD 2 TB • Gaming 4K",
+    "vendedor": "Castillo SACIFIA",
+    "producto": "PS5 Pro",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.castillo.com.ar/consola-p-video-juego-sony-ps5-hw-ltm-1tb-stand--gt7-astro-bot/p": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Sony PS5 PlayStation 5 1TB Standard Incluye 2 juegos (AstroBot + Gran Turismo 7)",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.provinciacompras.com.ar/consola-ps5-playstation-5-standard-bundle---gt-7-astro-bot--268200/p": {
+    "estado": "disponible",
+    "precio": 2089262,
+    "cuotas": {
+      "n": 9,
+      "valor": 232140,
+      "sin_interes": true,
+      "total": 2089262,
+      "tarjetas": [
+        "Mastercard",
+        "Visa"
+      ]
+    },
+    "titulo": "Consola PS5 PlayStation 5 Standard Bundle ( GT 7/Astro Bot)",
+    "vendedor": "Casa del Audio",
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.provinciacompras.com.ar/playstation-5-slim-digital-825gb-325843/p": {
+    "estado": "disponible",
+    "precio": 2749990,
+    "cuotas": {
+      "n": 9,
+      "valor": 305554,
+      "sin_interes": true,
+      "total": 2749990,
+      "tarjetas": [
+        "Mastercard",
+        "Visa"
+      ]
+    },
+    "titulo": "Playstation 5 Slim Digital 825GB",
+    "vendedor": "ALF Electronica",
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.provinciacompras.com.ar/consola-sony-playstation-5-825gb--gran-turismo--7--teclado-redragon-shiva-342386/p": {
+    "estado": "disponible",
+    "precio": 2158999,
+    "cuotas": {
+      "n": 9,
+      "valor": 239889,
+      "sin_interes": true,
+      "total": 2158999,
+      "tarjetas": [
+        "Mastercard",
+        "Visa"
+      ]
+    },
+    "titulo": "CONSOLA SONY PLAYSTATION 5 825GB  GRAN TURISMO  7 +TECLADO REDRAGON SHIVA",
+    "vendedor": "M&P Computación",
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.provinciacompras.com.ar/consola-sony-playstation-5-825gb-ps5-con-2-joysticks-originales-342383/p": {
+    "estado": "disponible",
+    "precio": 2348999,
+    "cuotas": {
+      "n": 9,
+      "valor": 261000,
+      "sin_interes": true,
+      "total": 2348999,
+      "tarjetas": [
+        "Mastercard",
+        "Visa"
+      ]
+    },
+    "titulo": "CONSOLA SONY PLAYSTATION 5 825GB PS5 CON 2 JOYSTICKS ORIGINALES",
+    "vendedor": "M&P Computación",
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.provinciacompras.com.ar/consola-playstation-5-standard-1tb-gran-turismo-7-314768/p": {
+    "estado": "disponible",
+    "precio": 2348000,
+    "cuotas": {
+      "n": 9,
+      "valor": 260889,
+      "sin_interes": true,
+      "total": 2348000,
+      "tarjetas": [
+        "Mastercard",
+        "Visa"
+      ]
+    },
+    "titulo": "Consola PlayStation 5 Standard 1TB Gran Turismo 7",
+    "vendedor": "Tecno Compro",
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.provinciacompras.com.ar/consola-ps5-play-station-5-digital-825gb---2-juegos-325806/p": {
+    "estado": "disponible",
+    "precio": 2125000,
+    "cuotas": {
+      "n": 9,
+      "valor": 236111,
+      "sin_interes": true,
+      "total": 2125000,
+      "tarjetas": [
+        "Mastercard",
+        "Visa"
+      ]
+    },
+    "titulo": "Consola PS5 Play Station 5 Digital 825GB + 2 Juegos",
+    "vendedor": "Tecno Compro",
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.provinciacompras.com.ar/consola-ps5-digital---juegos-astro-bot---gran-turismo-7-blanco-339192/p": {
+    "estado": "disponible",
+    "precio": 2565599,
+    "cuotas": {
+      "n": 9,
+      "valor": 285067,
+      "sin_interes": true,
+      "total": 2565599,
+      "tarjetas": [
+        "Mastercard",
+        "Visa"
+      ]
+    },
+    "titulo": "CONSOLA PS5 DIGITAL + JUEGOS ASTRO BOT + GRAN TURISMO 7 BLANCO",
+    "vendedor": "Geek Spot",
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA45721591": {
+    "estado": "disponible",
+    "precio": 1150000,
+    "cuotas": null,
+    "titulo": "PlayStation 5 Estándar 1TB",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA49756011": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation Playstation 5 Spider-man 2 Bundle Color Blanco",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA29690218": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 PS5 825GB Standard",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA28757654": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Disco Playstation 5 - Sony Perú",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37202513": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "PlayStation 5 825gb 8k HDR Medios Digitales",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA27664134": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 825 Gb Color Blanco",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA53539581": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola portátil Playstation 5 30 años... Gris",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA58464900": {
+    "estado": "disponible",
+    "precio": 1649999,
+    "cuotas": null,
+    "titulo": "PS5 DIGITAL 1TB 4K PLAYSTATION 5",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA28089174": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Digital + Juego Fc24",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA27457758": {
+    "estado": "disponible",
+    "precio": 2000000,
+    "cuotas": null,
+    "titulo": "Consola Sony Playstation 5 Digital 825gb",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA42060542": {
+    "estado": "disponible",
+    "precio": 1250000,
+    "cuotas": null,
+    "titulo": "Sony Playstation 5 Edición Digital PS5",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA29121829": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 Sony Ps5 Hw 1215 Standar Edition",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA62971919": {
+    "estado": "disponible",
+    "precio": 1617128,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Bundle Nba 2k26 Color",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA46178094": {
+    "estado": "disponible",
+    "precio": 2754768,
+    "cuotas": null,
+    "titulo": "Playstation 5 Digital Slim Edición 30th Aniversario Blanco",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA41915269": {
+    "estado": "disponible",
+    "precio": 1200000,
+    "cuotas": null,
+    "titulo": "Playstation 5 Standard Versión Internacionalacional - Internacional Edition",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA28616777": {
+    "estado": "disponible",
+    "precio": 1300000,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 Slim 1TB Standard color blanco",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA42097103": {
+    "estado": "disponible",
+    "precio": 1150000,
+    "cuotas": null,
+    "titulo": "Sony Playstation 5 Slim Edicion Digital 1tb blanco",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA28726294": {
+    "estado": "disponible",
+    "precio": 1600000,
+    "cuotas": null,
+    "titulo": "Consola Sony PlayStation 5 Slim Standard 1TB",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA51340701": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 Slim CFI-2015 Standard 2020",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA54963150": {
+    "estado": "disponible",
+    "precio": 1500000,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Edición Digital 825 Gb",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA68582699": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Sony Playstation 5 Slim Color Blanco/negro",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA23462387": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Sony Cfi-1215a Estandar",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA32315923": {
+    "estado": "disponible",
+    "precio": 1580663,
+    "cuotas": null,
+    "titulo": "Sony Playstation 5 825gb Standard Color Blanco Y Negro",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA42024580": {
+    "estado": "disponible",
+    "precio": 2500000,
+    "cuotas": null,
+    "titulo": "Sony Playstation 5 Consola Ps5 Edicion Aniversario 30th",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA64995044": {
+    "estado": "disponible",
+    "precio": 1335577,
+    "cuotas": null,
+    "titulo": "Playstation 5 Slim Digital Edition Bundle Fortnite Sony Blanco",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA44958397": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 Digital Edición Limitada 30 Aniversario Color Griss",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA26090022": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Digital 825gb+god Of War Ragnarök",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA25800887": {
+    "estado": "disponible",
+    "precio": 1700000,
+    "cuotas": null,
+    "titulo": "Playstation 5 Digital Edition + God Of War Ragnarök",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA74722105": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Slim Edición Digital + Unidad Disco Blanco",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA36385726": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Bundle Playstation 5 Standard Slim + 2 Juegos Físicos",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA55042625": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Sony Playstation 5 Standard de 1 TB",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37369426": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 Slim CFI-2015 Marvel Spiderman 2",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA44605824": {
+    "estado": "disponible",
+    "precio": 2848673,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Sony Pro Slim Digital 2tb",
+    "vendedor": null,
+    "producto": "PS5 Pro",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA21652932": {
+    "estado": "disponible",
+    "precio": 1349990,
+    "cuotas": null,
+    "titulo": "Sony Playstation 5 (ps5) - 825gb Color Blanco Standard Edition",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA24329672": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Version Disco Ps5 Blanco",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA29034307": {
+    "estado": "disponible",
+    "precio": 1199000,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 Slim Digital CFI-2015B 825gb",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA27963683": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 Slim PS5 SLIM DISCO Standard 2023",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA66567287": {
+    "estado": "disponible",
+    "precio": 1374283,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Edición Digital 825 Gb Blanco/negro",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA45733227": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 Slim Console Digital Edition Marvels Spider-ma",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37339999": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 standard CFI-1215A 825GB color blanco 2022",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA20034801": {
+    "estado": "disponible",
+    "precio": 1860000,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 1TB Fisica Color Blanco con Disco",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA22649517": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Bundle Playstation 5 Estándar Edition + God Of War Ragnarök",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA23458531": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Ps5 Standard + Fifa 23 Ultimate Team",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA24796883": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 Digital Con Juego Horizon Forbidden West Laaca",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA58035323": {
+    "estado": "disponible",
+    "precio": 1771950,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Edición Limitada Gold Ghost Of Yotei Dorado",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA22650911": {
+    "estado": "disponible",
+    "precio": 1700000,
+    "cuotas": null,
+    "titulo": "Consola Sony PlayStation 5 PS5 Edición Estándar y Joystick",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37300294": {
+    "estado": "disponible",
+    "precio": 1890000,
+    "cuotas": null,
+    "titulo": "Sony Playstation 5 Slim 1tb Digital Bundle Ratchet & Clank",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA32441942": {
+    "estado": "disponible",
+    "precio": 1100000,
+    "cuotas": null,
+    "titulo": "Consola Ps5 Slim Playstation 5 Dvd 1tb 4k Internacional",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA29001054": {
+    "estado": "disponible",
+    "precio": 1091217,
+    "cuotas": null,
+    "titulo": "Consola Sony PlayStation 5 Slim Blanco 4K 825 GB Digital",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37360933": {
+    "estado": "disponible",
+    "precio": 1500000,
+    "cuotas": null,
+    "titulo": "Sony Playstation 5 Slim Digital 1TB color blanco",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA49823636": {
+    "estado": "disponible",
+    "precio": 1650000,
+    "cuotas": null,
+    "titulo": "PlayStation 5 Edición Digital 1TB Slim CFI 2114B",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA34952084": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony Playstation 5 Edición digital delgada de 1 TB",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA45498734": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Slim + Spider-Man 2 + Color White",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA29725752": {
+    "estado": "disponible",
+    "precio": 2399999,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 slim 1TB extra dualSense controller color blanco",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA34236967": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 Slim 1tb + Control Dual Sense Cosmic Red Color Blanco",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA80131983": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Slim Digital +fc 26 Dig Soy Gamer Blanco",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37258041": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 Slim 1 Tb Digital Spider-man 2 Color Blanco",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37325518": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 Digital CFI-1116B 825GB Standard color blanco 2021",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA27437553": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 standard 825GB EA SPORTS FC 24 Blanco 2023",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA36749879": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 standard CFI-1014A 825GB Standard color blanco 2020",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA46322673": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 Slim Modelo Marvels Spider Man 2 Bde Color Blanco",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA36752778": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 standard CFI-1000A 825GB Standard color blanco 2020",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37342767": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 standard CFI-1114A 825GB Standard color blanco 2021",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37323977": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 standard CFI-1116A 825GB Standard color blanco 2021",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA61753757": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Sony Ps5 Playstation 5 Sony Digital 1tb 30th Edition",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37325665": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 standard CFI-1214A 825GB Standard color blanco 2022",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37360609": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 standard CFI-1200A 825GB Standard color blanco 2022",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA24525597": {
+    "estado": "disponible",
+    "precio": 1500000,
+    "cuotas": null,
+    "titulo": "Sony Playstation 5 Hw 1215 Edición Digital Color Blanco Astro's Playroom",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37333002": {
+    "estado": "disponible",
+    "precio": 1553864,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 standard CFI-1216A 825GB Standard color blanco 2022",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37335908": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 standard CFI-1016A 825GB Standard color blanco 2020",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37360934": {
+    "estado": "disponible",
+    "precio": 1500000,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 Digital CFI-1200B 825GB Digital color blanco 2022",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA63020591": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola física Playstation 5 Slim, 2 controles Ps5 National, blanca",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA68255694": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 Slim Slim Paco_12543 Con lector Blu-ray 2020",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA36753986": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 Digital CFI-1000B 825GB Digital color blanco 2020",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA28295979": {
+    "estado": "disponible",
+    "precio": 2599999,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Slim Disco Spiderman - Ps5 1 Control Color Blanco",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA42080971": {
+    "estado": "disponible",
+    "precio": 2500000,
+    "cuotas": null,
+    "titulo": "Sony Playstation 5 Slim Digital Returnal Y Ratchet 1tb Color Blanco",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA26120296": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony Playstation 5 Standard 825gb Ps5 + Juego Fifa 2023 Color Blanco",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37361084": {
+    "estado": "disponible",
+    "precio": 1850000,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 Standard CFI-1015A 825GB Standard Color Blanco 2020",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA29671264": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Spiderman 2 Edition 1tb Cfi-1215a Color Blanco",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA35925111": {
+    "estado": "disponible",
+    "precio": 1450000,
+    "cuotas": null,
+    "titulo": "PlayStation 5 Edición Digital 825 GB Slim CFI 2115",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA27035297": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Marvels Spider Man 2 Limited Edition Color Negro",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA39459985": {
+    "estado": "disponible",
+    "precio": 1450000,
+    "cuotas": null,
+    "titulo": "Sony Playstation 5 Slim 1tb Standard Bundle Ratchet & Clank Blanco/Negro",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA27293782": {
+    "estado": "disponible",
+    "precio": 1800000,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Edición Limitada Spider-man 2 Color Blanco/negro",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA23891945": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Ps5 Standard + God Of War Ragnarök Color Blanco",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA28617102": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Consola Playstation 5 Standard Y Joystick Dualsense Ps5 Gray Color Gray Camouflage",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37338304": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 Digital CFI-1016B 825GB Edición Digital color blanco 2020",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA35059766": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony Playstation 5 825gb God Of War Ragnarok Bundle Color Blanco/Negro",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA37332845": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Sony PlayStation 5 Digital CFI-1215B 825GB Digital Edition color blanco 2022",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA35735125": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 Slim Digital 1 Tb Bundle Marvel Spiderman 2 Color Blanco",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.mercadolibre.com.ar/p/MLA64866223": {
+    "estado": "sin_stock",
+    "precio": null,
+    "cuotas": null,
+    "titulo": "Playstation 5 1tb Slim Lector Con Ratchet Y Clank Y Returnal Blanco",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://www.megatone.net/producto/ps5-standard-gran-turismo-7-astro_MKT016RGES/": {
+    "estado": "disponible",
+    "precio": 2812499,
+    "cuotas": null,
+    "titulo": "Ps5 Standard Gran Turismo 7 + Astro - PLAYSTATION",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://casadelaudio.com/consola-ps5-playstation-5-edicon-digital-gt-7-astro-bot.html": {
+    "estado": "disponible",
+    "precio": 1899999,
+    "cuotas": {
+      "n": 9,
+      "valor": 211111,
+      "sin_interes": true,
+      "total": 1899999,
+      "tarjetas": []
+    },
+    "titulo": "Consola PS5 PlayStation 5 Edición Digital Sony (GT 7/Astro Bot)",
+    "vendedor": null,
+    "producto": "PS5 Digital",
+    "visto": "2026-11-22 11:26"
+  },
+  "https://casadelaudio.com/consola-ps5-playstation-5-standard-bundle-gt-7-astro-bot.html": {
+    "estado": "disponible",
+    "precio": 2099999,
+    "cuotas": {
+      "n": 9,
+      "valor": 233333,
+      "sin_interes": true,
+      "total": 2099997,
+      "tarjetas": []
+    },
+    "titulo": "Consola PS5 PlayStation 5 Sony Standard Bundle ( GT 7/Astro Bot)",
+    "vendedor": null,
+    "producto": "PS5 Standard",
+    "visto": "2026-11-22 11:26"
+  }
+}

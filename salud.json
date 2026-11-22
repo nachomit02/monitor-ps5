@@ -1,0 +1,72 @@
+{
+  "Fravega": {
+    "fallas": 1,
+    "avisado": false,
+    "motivo": "error en el catálogo: HTTP Error 403: Forbidden"
+  },
+  "Carrefour": {
+    "fallas": 0,
+    "avisado": false,
+    "motivo": null
+  },
+  "Jumbo": {
+    "fallas": 0,
+    "avisado": false,
+    "motivo": null
+  },
+  "Disco": {
+    "fallas": 0,
+    "avisado": false,
+    "motivo": null
+  },
+  "Vea": {
+    "fallas": 0,
+    "avisado": false,
+    "motivo": null
+  },
+  "Coppel": {
+    "fallas": 0,
+    "avisado": false,
+    "motivo": null
+  },
+  "Oncity": {
+    "fallas": 0,
+    "avisado": false,
+    "motivo": null
+  },
+  "Cetrogar": {
+    "fallas": 0,
+    "avisado": false,
+    "motivo": null
+  },
+  "Naldo": {
+    "fallas": 0,
+    "avisado": false,
+    "motivo": null
+  },
+  "Castillo": {
+    "fallas": 0,
+    "avisado": false,
+    "motivo": null
+  },
+  "Provinciacompras": {
+    "fallas": 0,
+    "avisado": false,
+    "motivo": null
+  },
+  "Mercadolibre": {
+    "fallas": 0,
+    "avisado": false,
+    "motivo": null
+  },
+  "Megatone": {
+    "fallas": 0,
+    "avisado": false,
+    "motivo": null
+  },
+  "Casadelaudio": {
+    "fallas": 0,
+    "avisado": false,
+    "motivo": null
+  }
+}
