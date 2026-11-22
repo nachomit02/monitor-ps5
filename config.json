@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "nombre": "PS5 Standard",
+      "modelo": "standard",
+      "detalle": "Con lectora de discos · Slim 1 TB",
+      "precio_max": 1800000
+    },
+    {
+      "nombre": "PS5 Digital",
+      "modelo": "digital",
+      "detalle": "Sin lectora · Slim 825 GB / 1 TB",
+      "precio_max": 1400000
+    },
+    {
+      "nombre": "PS5 Pro",
+      "modelo": "pro",
+      "detalle": "Digital · 2 TB",
+      "precio_max": 2900000
+    }
+  ],
+  "vtex": [
+    "https://www.fravega.com",
+    "https://www.carrefour.com.ar",
+    "https://www.jumbo.com.ar",
+    "https://www.disco.com.ar",
+    "https://www.vea.com.ar",
+    "https://www.coppel.com.ar",
+    "https://www.oncity.com",
+    "https://www.cetrogar.com.ar",
+    "https://www.naldo.com.ar",
+    "https://www.castillo.com.ar",
+    "https://www.provinciacompras.com.ar"
+  ],
+  "mercadolibre": true,
+  "busquedas": [
+    "https://www.megatone.net/?s=playstation+5",
+    "https://casadelaudio.com/tecnologia/consolas/play-station-5.html"
+  ],
+  "codigo_postal": "1425",
+  "avisar_aunque_supere_precio_max": true,
+  "tiendas_bloqueadas_conocidas": [],
+  "grafico": "https://nachomit02.github.io/monitor-ps5/"
+}
