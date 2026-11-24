@@ -5,9 +5,9 @@
     "motivo": "error en el catálogo: HTTP Error 403: Forbidden"
   },
   "Carrefour": {
-    "fallas": 0,
+    "fallas": 1,
     "avisado": false,
-    "motivo": null
+    "motivo": "error en el catálogo: HTTP Error 500: Internal Server Error"
   },
   "Jumbo": {
     "fallas": 0,
