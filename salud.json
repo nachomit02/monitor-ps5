@@ -1,8 +1,8 @@
 {
   "Fravega": {
-    "fallas": 1,
+    "fallas": 0,
     "avisado": false,
-    "motivo": "error en el catálogo: HTTP Error 403: Forbidden"
+    "motivo": null
   },
   "Carrefour": {
     "fallas": 0,
