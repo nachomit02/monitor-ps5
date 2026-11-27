@@ -50,9 +50,9 @@
     "motivo": null
   },
   "Provinciacompras": {
-    "fallas": 1,
+    "fallas": 0,
     "avisado": false,
-    "motivo": "error en el catálogo: HTTP Error 500: Internal Server Error"
+    "motivo": null
   },
   "Mercadolibre": {
     "fallas": 0,
