@@ -3,55 +3,55 @@
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Pro",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.disco.com.ar#pro": {
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Pro",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.vea.com.ar#pro": {
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Pro",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.cetrogar.com.ar#pro": {
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Pro",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.naldo.com.ar#pro": {
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Pro",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.provinciacompras.com.ar#pro": {
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Pro",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.megatone.net/?s=playstation+5#digital": {
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.megatone.net/?s=playstation+5#pro": {
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Pro",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://casadelaudio.com/tecnologia/consolas/play-station-5.html#pro": {
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Pro",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/sony-playstation-5-digital-edition-825gb-slim---2-joysticks-dualsense-originales-1774516/p": {
     "estado": "disponible",
@@ -72,25 +72,24 @@
     "titulo": "Sony PlayStation 5 Digital Edition 825GB Slim + 2 Joysticks DualSense Originales",
     "vendedor": "Demelf",
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/sony-playstation-5-digital-edition-825gb-slim-con-1-joystick-dualsense-original-1774517/p": {
     "estado": "disponible",
     "precio": 2399998,
     "cuotas": {
-      "n": 9,
-      "valor": 612026,
-      "sin_interes": false,
-      "total": 5508235,
+      "n": 3,
+      "valor": 799999,
+      "sin_interes": true,
+      "total": 2399998,
       "tarjetas": [
-        "Mastercard",
-        "Visa"
+        "Tarjeta Carrefour Mastercard"
       ]
     },
     "titulo": "Sony PlayStation 5 Digital Edition 825GB Slim con 1 Joystick DualSense Original",
     "vendedor": "Demelf",
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/consola-play-station-5-hw-2115-cfi-2115a01x-standard-gt7-astro-argentina/p": {
     "estado": "disponible",
@@ -111,7 +110,7 @@
     "titulo": "Consola Play Station 5 hw 2115 cfi 2115a01x standard gt7 astro argentina",
     "vendedor": "CARREFOUR",
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/consola-sony-playstation-5-ps5-edicion-estandard/p": {
     "estado": "sin_stock",
@@ -120,7 +119,7 @@
     "titulo": "Consola Sony PlayStation 5 PS5 Edición Estándard",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/consola-playstation-5-hw-2115-cfi-2115b01x-digital-gt7-astro-boy/p": {
     "estado": "sin_stock",
@@ -129,7 +128,7 @@
     "titulo": "Consola PlayStation 5 HW 2115 (CFI 2115B01X) DIGITAL GT7 astro boy",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/consola-play-station-5-cfi-1115a/p": {
     "estado": "sin_stock",
@@ -138,7 +137,7 @@
     "titulo": "Consola Play Station 5 CFI 1115A",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/consola-playstation-5-slim-standard-bundle-astro-bot-y-gt7-1753875/p": {
     "estado": "sin_stock",
@@ -147,7 +146,7 @@
     "titulo": "Consola Playstation 5 Slim Standard Bundle Astro Bot Y Gt7",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/consola-playstation-5v-sony-1tb-edici-n-standard-s-/p": {
     "estado": "sin_stock",
@@ -156,7 +155,7 @@
     "titulo": "Consola playstation 5v Sony 1tb edición standard s",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/consola-playstation-ps5-pro-digital-2tb-cfi-7020-/p": {
     "estado": "sin_stock",
@@ -165,7 +164,7 @@
     "titulo": "Consola PlayStation ps5 pro digital 2tb cfi 7020",
     "vendedor": null,
     "producto": "PS5 Pro",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/consola-playstation-5-edicion-standard-slim-cfi-20/p": {
     "estado": "sin_stock",
@@ -174,7 +173,7 @@
     "titulo": "Playstation 5 Edición Standard Slim CFI 20",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/consola-playstation-5-sony-1tb-edicion-digital-slim/p": {
     "estado": "sin_stock",
@@ -183,7 +182,7 @@
     "titulo": "Playstation 5 Sony 1TB - Edición digital Slim",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/consola-play-station-5-hw-2015-cfi-2015b01x-digital-gt7-astro-argentina/p": {
     "estado": "sin_stock",
@@ -192,25 +191,24 @@
     "titulo": "Consola Play Station 5 hw 2015 cfi 2015b01x digital gt7 astro argentina",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/consola-ps5-digital---juegos-astro-bot---gran-turismo-7-blanco-1779604/p": {
     "estado": "disponible",
     "precio": 2137999,
     "cuotas": {
-      "n": 9,
-      "valor": 545214,
-      "sin_interes": false,
-      "total": 4906922,
+      "n": 3,
+      "valor": 712666,
+      "sin_interes": true,
+      "total": 2137999,
       "tarjetas": [
-        "Mastercard",
-        "Visa"
+        "Tarjeta Carrefour Mastercard"
       ]
     },
     "titulo": "Consola Ps5 Digital + Juegos Astros Bot + Gran Turismo 7 Blanco",
     "vendedor": "Premium MPM",
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/consola-ps5-hw-1215-standard-arg/p": {
     "estado": "sin_stock",
@@ -219,7 +217,7 @@
     "titulo": "Consola PS5 HW 1215 STANDARD ARG",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/consola-ps5-hw-digital-stand-alone-1/p": {
     "estado": "sin_stock",
@@ -228,7 +226,7 @@
     "titulo": "Consola Ps5 hw digital stand alone",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/consola-ps5-hw-digital-god-of-war-bundle/p": {
     "estado": "sin_stock",
@@ -237,7 +235,7 @@
     "titulo": "Consola PS5 HW digital God Of  War Bundle",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.carrefour.com.ar/consola-ps5-hw-1215-god-of-war-standard-arg/p": {
     "estado": "sin_stock",
@@ -246,7 +244,7 @@
     "titulo": "Consola PS5 HW 1215 God of  War STANDARD ARG",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.jumbo.com.ar/ps5-consola-playstation-5-hw-standard-2/p": {
     "estado": "sin_stock",
@@ -255,7 +253,7 @@
     "titulo": "Ps5 Consola Playstation 5 Hw Standard",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.jumbo.com.ar/consola-ps5-digital-bundle-gt-7-y-astrobot-sony-2/p": {
     "estado": "sin_stock",
@@ -264,7 +262,7 @@
     "titulo": "Consola PlayStation 5 Slim 1 Tb Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.jumbo.com.ar/consola-ps5-playstation-hw-standard-juego-god-of-war-2/p": {
     "estado": "sin_stock",
@@ -273,7 +271,7 @@
     "titulo": "Consola PlayStation 5 God of War Ragnarök Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.jumbo.com.ar/consola-ps5-playstation-5-slim-standard-super-bundle-sony-2/p": {
     "estado": "sin_stock",
@@ -282,7 +280,7 @@
     "titulo": "Consola PlayStation 5 con Returnal y Ratchet & Clank Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.jumbo.com.ar/consola-ps5-hw-sony-2/p": {
     "estado": "sin_stock",
@@ -291,7 +289,7 @@
     "titulo": "Consola PlayStation 5 1 Tb con Astro Bot y Gran Turismo 7 Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.jumbo.com.ar/consola-ps5-playstation-hw-standard-2/p": {
     "estado": "sin_stock",
@@ -300,7 +298,7 @@
     "titulo": "Consola Ps5 Playstation Hw Standard.",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.jumbo.com.ar/ps5-consola-plasytation-5-hw-digital-2/p": {
     "estado": "sin_stock",
@@ -309,7 +307,7 @@
     "titulo": "Ps5 Consola Plasytation 5 Hw Digital.",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.jumbo.com.ar/consola-ps5-hw-digital-juego-gowr/p": {
     "estado": "sin_stock",
@@ -318,7 +316,7 @@
     "titulo": "Consola Ps5 Hw Digital  Juego Gowr",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.jumbo.com.ar/consola-ps5-hw-standard-juego-god-of-war/p": {
     "estado": "sin_stock",
@@ -327,7 +325,7 @@
     "titulo": "Consola Ps5 Hw Standard + Juego God Of War",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.jumbo.com.ar/consola-ps5-blanco-sony-2/p": {
     "estado": "sin_stock",
@@ -336,7 +334,7 @@
     "titulo": "Consola  Ps5 Blanco Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.jumbo.com.ar/consola-sony-ps5-825gb-hw-2115-cfi-2115b01x-digital-gt7-astro/p": {
     "estado": "sin_stock",
@@ -345,7 +343,7 @@
     "titulo": "Consola Sony Ps5 825gb Hw 2115 Cfi-2115b01x Digital Gt7 Astro",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.jumbo.com.ar/consola-sony-ps5-1-tb-estandar-con-astro-bot-y-gran-turismo-7/p": {
     "estado": "sin_stock",
@@ -354,7 +352,7 @@
     "titulo": "Consola Sony Ps5 1 Tb Estandar Con Astro Bot Y Gran Turismo 7",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.jumbo.com.ar/consola-ps5-bundle-2015-edicion-digital-sony-2/p": {
     "estado": "sin_stock",
@@ -363,7 +361,7 @@
     "titulo": "Consola Ps5 Bundle 2015 Edicion Digital Sony",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.jumbo.com.ar/consola-ps5-standard-1-joystick-1-juego-de-the-last-of-us/p": {
     "estado": "sin_stock",
@@ -372,7 +370,7 @@
     "titulo": "Consola Ps5 Standard + 1 Joystick + 1 Juego De The Last Of Us",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.disco.com.ar/ps5-consola-playstation-5-hw-standard-2/p": {
     "estado": "sin_stock",
@@ -381,7 +379,7 @@
     "titulo": "Ps5 Consola Playstation 5 Hw Standard",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.disco.com.ar/consola-ps5-digital-bundle-gt-7-y-astrobot-sony-2/p": {
     "estado": "sin_stock",
@@ -390,7 +388,7 @@
     "titulo": "Consola PlayStation 5 Slim 1 Tb Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.disco.com.ar/consola-ps5-playstation-hw-standard-juego-god-of-war-2/p": {
     "estado": "sin_stock",
@@ -399,7 +397,7 @@
     "titulo": "Consola PlayStation 5 God of War Ragnarök Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.disco.com.ar/consola-ps5-playstation-5-slim-standard-super-bundle-sony-2/p": {
     "estado": "sin_stock",
@@ -408,7 +406,7 @@
     "titulo": "Consola PlayStation 5 con Returnal y Ratchet & Clank Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.disco.com.ar/consola-ps5-hw-sony-2/p": {
     "estado": "sin_stock",
@@ -417,7 +415,7 @@
     "titulo": "Consola PlayStation 5 1 Tb con Astro Bot y Gran Turismo 7 Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.disco.com.ar/consola-ps5-playstation-hw-standard-2/p": {
     "estado": "sin_stock",
@@ -426,7 +424,7 @@
     "titulo": "Consola Ps5 Playstation Hw Standard.",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.disco.com.ar/ps5-consola-plasytation-5-hw-digital-2/p": {
     "estado": "sin_stock",
@@ -435,7 +433,7 @@
     "titulo": "Ps5 Consola Plasytation 5 Hw Digital.",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.disco.com.ar/consola-ps5-hw-digital-juego-gowr/p": {
     "estado": "sin_stock",
@@ -444,7 +442,7 @@
     "titulo": "Consola Ps5 Hw Digital  Juego Gowr",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.disco.com.ar/consola-ps5-hw-standard-juego-god-of-war/p": {
     "estado": "sin_stock",
@@ -453,7 +451,7 @@
     "titulo": "Consola Ps5 Hw Standard + Juego God Of War",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.disco.com.ar/consola-ps5-blanco-sony-2/p": {
     "estado": "sin_stock",
@@ -462,7 +460,7 @@
     "titulo": "Consola  Ps5 Blanco Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.disco.com.ar/consola-sony-ps5-825gb-hw-2115-cfi-2115b01x-digital-gt7-astro/p": {
     "estado": "sin_stock",
@@ -471,7 +469,7 @@
     "titulo": "Consola Sony Ps5 825gb Hw 2115 Cfi-2115b01x Digital Gt7 Astro",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.disco.com.ar/consola-sony-ps5-1-tb-estandar-con-astro-bot-y-gran-turismo-7/p": {
     "estado": "sin_stock",
@@ -480,7 +478,7 @@
     "titulo": "Consola Sony Ps5 1 Tb Estandar Con Astro Bot Y Gran Turismo 7",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.disco.com.ar/consola-ps5-bundle-2015-edicion-digital-sony-2/p": {
     "estado": "sin_stock",
@@ -489,7 +487,7 @@
     "titulo": "Consola Ps5 Bundle 2015 Edicion Digital Sony",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.disco.com.ar/consola-ps5-standard-1-joystick-1-juego-de-the-last-of-us/p": {
     "estado": "sin_stock",
@@ -498,7 +496,7 @@
     "titulo": "Consola Ps5 Standard + 1 Joystick + 1 Juego De The Last Of Us",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.vea.com.ar/ps5-consola-playstation-5-hw-standard-2/p": {
     "estado": "sin_stock",
@@ -507,7 +505,7 @@
     "titulo": "Ps5 Consola Playstation 5 Hw Standard",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.vea.com.ar/consola-ps5-digital-bundle-gt-7-y-astrobot-sony-2/p": {
     "estado": "sin_stock",
@@ -516,7 +514,7 @@
     "titulo": "Consola PlayStation 5 Slim 1 Tb Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.vea.com.ar/consola-ps5-playstation-hw-standard-juego-god-of-war-2/p": {
     "estado": "sin_stock",
@@ -525,7 +523,7 @@
     "titulo": "Consola PlayStation 5 God of War Ragnarök Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.vea.com.ar/consola-ps5-playstation-5-slim-standard-super-bundle-sony-2/p": {
     "estado": "sin_stock",
@@ -534,7 +532,7 @@
     "titulo": "Consola PlayStation 5 con Returnal y Ratchet & Clank Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.vea.com.ar/consola-ps5-hw-sony-2/p": {
     "estado": "sin_stock",
@@ -543,7 +541,7 @@
     "titulo": "Consola PlayStation 5 1 Tb con Astro Bot y Gran Turismo 7 Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.vea.com.ar/consola-ps5-playstation-hw-standard-2/p": {
     "estado": "sin_stock",
@@ -552,7 +550,7 @@
     "titulo": "Consola Ps5 Playstation Hw Standard.",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.vea.com.ar/ps5-consola-plasytation-5-hw-digital-2/p": {
     "estado": "sin_stock",
@@ -561,7 +559,7 @@
     "titulo": "Ps5 Consola Plasytation 5 Hw Digital.",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.vea.com.ar/consola-ps5-hw-digital-juego-gowr/p": {
     "estado": "sin_stock",
@@ -570,7 +568,7 @@
     "titulo": "Consola Ps5 Hw Digital  Juego Gowr",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.vea.com.ar/consola-ps5-hw-standard-juego-god-of-war/p": {
     "estado": "sin_stock",
@@ -579,7 +577,7 @@
     "titulo": "Consola Ps5 Hw Standard + Juego God Of War",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.vea.com.ar/consola-ps5-blanco-sony-2/p": {
     "estado": "sin_stock",
@@ -588,7 +586,7 @@
     "titulo": "Consola  Ps5 Blanco Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.vea.com.ar/consola-sony-ps5-825gb-hw-2115-cfi-2115b01x-digital-gt7-astro/p": {
     "estado": "sin_stock",
@@ -597,7 +595,7 @@
     "titulo": "Consola Sony Ps5 825gb Hw 2115 Cfi-2115b01x Digital Gt7 Astro",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.vea.com.ar/consola-sony-ps5-1-tb-estandar-con-astro-bot-y-gran-turismo-7/p": {
     "estado": "sin_stock",
@@ -606,7 +604,7 @@
     "titulo": "Consola Sony Ps5 1 Tb Estandar Con Astro Bot Y Gran Turismo 7",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.vea.com.ar/consola-ps5-bundle-2015-edicion-digital-sony-2/p": {
     "estado": "sin_stock",
@@ -615,7 +613,7 @@
     "titulo": "Consola Ps5 Bundle 2015 Edicion Digital Sony",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.vea.com.ar/consola-ps5-standard-1-joystick-1-juego-de-the-last-of-us/p": {
     "estado": "sin_stock",
@@ -624,7 +622,7 @@
     "titulo": "Consola Ps5 Standard + 1 Joystick + 1 Juego De The Last Of Us",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-ps5-playstation-sony-slim-bundle-2---incluye-2-juegos--astrobot---gran-turismo-7--850411/p": {
     "estado": "sin_stock",
@@ -633,7 +631,7 @@
     "titulo": "-PREVENTA-Consola PS5 Sony PlayStation 5 Slim Standard Bundle 2 + Incluye 2 juegos (AstroBot & Gran Turismo 7)",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-playstation-5-ps5-digital-edition-830887/p": {
     "estado": "sin_stock",
@@ -642,7 +640,7 @@
     "titulo": "Consola Playstation 5 Ps5 Digital Edition",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-playstation-5-standard-ps5-hw-sony-834173/p": {
     "estado": "sin_stock",
@@ -651,7 +649,7 @@
     "titulo": "Consola Playstation 5 Standard Ps5 Hw Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-playstation-5-ps5-standard-833304/p": {
     "estado": "sin_stock",
@@ -660,7 +658,7 @@
     "titulo": "Consola PlayStation 5 PS5 Standard",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-playstation-5-standard-ps5---videojuego-horizon-forbidden-west-834122/p": {
     "estado": "sin_stock",
@@ -669,7 +667,7 @@
     "titulo": "Consola Playstation 5 Standard Ps5 + Videojuego Horizon Forbidden West",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-playstation-5-standard---videojuego-ps5-god-of-war-ragnarok--838918/p": {
     "estado": "sin_stock",
@@ -678,7 +676,7 @@
     "titulo": "Consola Playstation 5 Standard + Videojuego PS5 God of War Ragnarok",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-playstation-5-standard---videojuego-ps5-god-of-war-ragnarok-840866/p": {
     "estado": "sin_stock",
@@ -687,7 +685,7 @@
     "titulo": "Consola Playstation 5 Standard + Videojuego PS5 God of War Ragnarok",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-playstation-5-standard---videojuego-ps5-god-of-war-ragnarok--839159/p": {
     "estado": "sin_stock",
@@ -696,7 +694,7 @@
     "titulo": "Consola Playstation 5 Standard + Videojuego PS5 God of War Ragnarok",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-playstation-5-digital-ps5---videojuego-god-of-war-ragnarok--838926/p": {
     "estado": "sin_stock",
@@ -705,7 +703,7 @@
     "titulo": "Consola Playstation 5 Digital Ps5 + Videojuego God of War Ragnarok",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-sony-playstation-5-digital-pro-cfi-7020-2tb-ps5-849987/p": {
     "estado": "sin_stock",
@@ -714,7 +712,7 @@
     "titulo": "Consola Sony Playstation 5 Digital Pro Cfi-7020 2TB Ps5",
     "vendedor": null,
     "producto": "PS5 Pro",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-playstation-5-digital-bundle-marvel-s-wolverine-edicion-limitada-battle-yellow-855235/p": {
     "estado": "sin_stock",
@@ -723,7 +721,7 @@
     "titulo": "Consola PlayStation 5 Digital Bundle Marvel's Wolverine Edición Limitada Battle Yellow",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/playstation-5-ps5-digital-edition-consola-sony-828602/p": {
     "estado": "sin_stock",
@@ -732,7 +730,7 @@
     "titulo": "Playstation 5 Ps5 Digital Edition Consola Sony",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/playstation-5-standard-edition-ps5-hw-consola-sony-828742/p": {
     "estado": "sin_stock",
@@ -741,7 +739,7 @@
     "titulo": "Playstation 5 Standard Edition Ps5 Hw Consola Sony",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-ps5-sony-playstation-5-slim-digital-bundle--845973/p": {
     "estado": "sin_stock",
@@ -750,7 +748,7 @@
     "titulo": "Consola Ps5 Sony Playstation 5 Slim Digital Bundle",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-ps5-sony-playstation-5-slim-digital-bundle--847178/p": {
     "estado": "sin_stock",
@@ -759,7 +757,7 @@
     "titulo": "Consola Ps5 Sony Playstation 5 Slim Digital Bundle",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-ps5-sony-playstation-5-slim-1tb-standard-bundle-847224/p": {
     "estado": "sin_stock",
@@ -768,7 +766,7 @@
     "titulo": "Consola Ps5 Sony Playstation 5 Slim 1tb Standard Bundle",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-ps5-sony-playstation-5-slim-standard-bundle-2---incluye-2-juegos--astrobot---gran-turismo-7--854891/p": {
     "estado": "disponible",
@@ -788,7 +786,7 @@
     "titulo": "Consola PS5 Sony PlayStation 5 Slim Standard Bundle 2 + Incluye 2 juegos (AstroBot & Gran Turismo 7)",
     "vendedor": "Coppel S.A.",
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-ps5-sony-playstation-5-slim-digital-bundle-848514/p": {
     "estado": "sin_stock",
@@ -797,7 +795,7 @@
     "titulo": "Consola PS5 PlayStation 5 Standard Sony Slim - Incluye 2 juegos (Returnal + Ratchet & Clank)",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/playstation-5-standard-edition-ps5-hw-831026/p": {
     "estado": "sin_stock",
@@ -806,7 +804,7 @@
     "titulo": "Playstation 5 Standard Edition Ps5 Hw",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/playstation-5-standard-edition-ps5-hw-831778/p": {
     "estado": "sin_stock",
@@ -815,7 +813,7 @@
     "titulo": "Playstation 5 Standard Edition Ps5 Hw",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/playstation-5-standard-edition-ps5-hw-826642/p": {
     "estado": "sin_stock",
@@ -824,7 +822,7 @@
     "titulo": "Playstation 5 Standard Edition Ps5 Hw",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-ps5-sony-playstation-5-slim-digital-bundle--847216/p": {
     "estado": "sin_stock",
@@ -833,7 +831,7 @@
     "titulo": "Consola PS5 PlayStation 5 Digital Sony Slim - Incluye 2 juegos (Returnal + Ratchet & Clank)",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-ps5-playstation-5-standard-sony-slim---incluye-2-juegos--returnal---ratchet---clank--849804/p": {
     "estado": "sin_stock",
@@ -842,7 +840,7 @@
     "titulo": "Consola PS5 PlayStation 5 Standard Sony Slim - Incluye 2 juegos (Returnal + Ratchet & Clank)",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-ps5-sony-playstation-5-slim-1tb-standard-bundle-845744/p": {
     "estado": "sin_stock",
@@ -851,7 +849,7 @@
     "titulo": "Consola PS5 Sony PlayStation Slim 1 TB Standard Bundle",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-ps5-playstation-5-digital-sony-slim---incluye-2-juegos--returnal---ratchet---clank--849782/p": {
     "estado": "sin_stock",
@@ -860,7 +858,7 @@
     "titulo": "Consola PS5 PlayStation 5 Digital Sony Slim - Incluye 2 juegos (Returnal + Ratchet & Clank)",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-ps5-sony-pro-digital--849715/p": {
     "estado": "sin_stock",
@@ -869,7 +867,7 @@
     "titulo": "Consola Sony PS5 PlayStation® 5 Pro",
     "vendedor": null,
     "producto": "PS5 Pro",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.oncity.com/consola-sony-playstation-5-standard-825gb-digital-con-joystick-148498/p": {
     "estado": "disponible",
@@ -887,7 +885,7 @@
     "titulo": "Consola Sony Playstation 5 Standard 825Gb Digital con Joystick",
     "vendedor": "AFFARI",
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.oncity.com/playstation-5-pro-2-tb-148488/p": {
     "estado": "disponible",
@@ -906,7 +904,7 @@
     "titulo": "PlayStation 5 Pro 2 TB",
     "vendedor": "AFFARI",
     "producto": "PS5 Pro",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.oncity.com/consola-ps5-digital-sony-hw-2115-825-gb-blanco-157441/p": {
     "estado": "disponible",
@@ -923,7 +921,7 @@
     "titulo": "Consola Ps5 Digital Sony Hw 2115 825 Gb Blanco",
     "vendedor": "On City",
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.oncity.com/consola-ps5-estandard-sony-hw-2115-st-gt7-astro-1-tb-blanco-157505/p": {
     "estado": "disponible",
@@ -942,7 +940,7 @@
     "titulo": "Consola Ps5 Estandard Sony Hw 2115 St Gt7 Astro 1 Tb Blanco",
     "vendedor": "On City",
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.oncity.com/consola-ps5-digital-sony-ps5-hw-2015-1-tb-blanco---2-juegos-astrobot-y-gran-turismo-7-156017/p": {
     "estado": "sin_stock",
@@ -951,7 +949,7 @@
     "titulo": "Consola Ps5 Digital Sony Ps5 Hw 2015 1 Tb Blanco + 2 Juegos Astrobot y Gran Turismo 7",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.oncity.com/consola-ps5-digital-sony-marvels-wolverine-battle-yellow-825-gb-amarillo---negro-158981/p": {
     "estado": "sin_stock",
@@ -960,7 +958,7 @@
     "titulo": "Consola Ps5 Digital Sony Marvels Wolverine Battle Yellow 825 Gb Amarillo / Negro",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.oncity.com/consola-ps5-standard-sony-bundle-1-tb-blanco---2-juegos-astrobot-y-gran-turismo-7-155265/p": {
     "estado": "sin_stock",
@@ -969,7 +967,7 @@
     "titulo": "Consola Ps5 Standard Sony Bundle 1 Tb Blanco + 2 Juegos Astrobot y Gran Turismo 7",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.cetrogar.com.ar/consola-ps5-playstation-digital-bundle-gt7-astrobot-el3020/p": {
     "estado": "sin_stock",
@@ -978,7 +976,7 @@
     "titulo": "Consola PS5 PlayStation Digital Bundle (GT7 + AstroBot)",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.cetrogar.com.ar/consola-ps5-playstation-standard-bundle-gt7-astrobot-el3000/p": {
     "estado": "disponible",
@@ -1001,7 +999,7 @@
     "titulo": "Consola PS5 PlayStation standard bundle (gt7 + astrobot)",
     "vendedor": "Cetrogar",
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.cetrogar.com.ar/consola-playstation-ps5-digital-bundle-gt7---astrobot-825gb-el3034/p": {
     "estado": "sin_stock",
@@ -1010,7 +1008,7 @@
     "titulo": "Consola PlayStation PS5 Digital Bundle GT7 + AstroBot 825GB",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.cetrogar.com.ar/consola-sony-playstation-5-ps5-edicion-estandar-bundle-2-latam-el3035/p": {
     "estado": "sin_stock",
@@ -1019,7 +1017,7 @@
     "titulo": "Consola Sony PlayStation 5 PS5 Edición Estándar Bundle 2 LATAM",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.cetrogar.com.ar/consola-ps5-playstation-5-standard--sony-slim-incluye-2-juegos-returnal-ratchet-clank-el2952/p": {
     "estado": "sin_stock",
@@ -1028,7 +1026,7 @@
     "titulo": "Consola PS5 PlayStation 5 Standard Sony Slim con 2 juegos Returnal y Ratchet Clank",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.castillo.com.ar/consola-p-video-juegsony-ps5-dig-825gb-gt7-astro-bot-9023 -/p": {
     "estado": "disponible",
@@ -1047,7 +1045,7 @@
     "titulo": "Consola Sony PlayStation 5 Digital  ASTRO BOT Gran Turismo 7 SSD 825GB",
     "vendedor": "Castillo SACIFIA",
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.castillo.com.ar/consola-p-video-juegsony-ps5-stand-1tb-gt7-astro-bot-9023 - -/p": {
     "estado": "disponible",
@@ -1066,7 +1064,7 @@
     "titulo": "Consola Sony PlayStation 5 Standard ASTRO BOT Gran Turismo 7 SSD 1TB",
     "vendedor": "Castillo SACIFIA",
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.castillo.com.ar/consola-p-video-juego-sony-ps5-hw-ltm-1tb-dig-gt7-astro-bot/p": {
     "estado": "disponible",
@@ -1085,7 +1083,7 @@
     "titulo": "Consola Sony PlayStation 5 Slim Digital Bundle ASTRO BOT  Gran Turismo 7  SSD 825GB",
     "vendedor": "Castillo SACIFIA",
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.castillo.com.ar/consola-p-video-juego-sony-ps5-hw-ltm-1tb-stand--gt7-astro-bot/p": {
     "estado": "sin_stock",
@@ -1094,7 +1092,7 @@
     "titulo": "Consola Sony PS5 PlayStation 5 1TB Standard Incluye 2 juegos (AstroBot + Gran Turismo 7)",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://casadelaudio.com/consola-ps5-playstation-5-edicon-digital-gt-7-astro-bot.html": {
     "estado": "disponible",
@@ -1109,7 +1107,7 @@
     "titulo": "Consola PS5 PlayStation 5 Edición Digital Sony (GT 7/Astro Bot)",
     "vendedor": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://casadelaudio.com/consola-ps5-playstation-5-standard-bundle-gt-7-astro-bot.html": {
     "estado": "disponible",
@@ -1124,31 +1122,31 @@
     "titulo": "Consola PS5 PlayStation 5 Sony Standard Bundle ( GT 7/Astro Bot)",
     "vendedor": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.megatone.net/?s=playstation+5#standard": {
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.mercadolibre.com.ar#standard": {
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.mercadolibre.com.ar#digital": {
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.mercadolibre.com.ar#pro": {
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Pro",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.provinciacompras.com.ar/consola-ps5-digital---juegos-astro-bot---gran-turismo-7-blanco-339192/p": {
     "estado": "disponible",
@@ -1166,7 +1164,7 @@
     "titulo": "CONSOLA PS5 DIGITAL + JUEGOS ASTRO BOT + GRAN TURISMO 7 BLANCO",
     "vendedor": "Geek Spot",
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.fravega.com/consola-playstation-5-1tb-edicion-digital-slim-990314172/p": {
     "estado": "sin_stock",
@@ -1762,25 +1760,25 @@
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Pro",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.naldo.com.ar#standard": {
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.naldo.com.ar#digital": {
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.provinciacompras.com.ar#standard": {
     "estado": "no_publicado",
     "precio": null,
     "producto": "PS5 Standard",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.coppel.com.ar/consola-ps5-sony-playstation-digital-slim-bundle-2---incluye-2-juegos--astrobot---gran-turismo-7--854883/p": {
     "estado": "disponible",
@@ -1800,7 +1798,7 @@
     "titulo": "Consola PS5 Sony PlayStation Digital Slim Bundle 2 + Incluye 2 juegos (AstroBot & Gran Turismo 7)",
     "vendedor": "Coppel S.A.",
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   },
   "https://www.oncity.com/playstation-ps5-slim-digital-825gb-153313/p": {
     "estado": "disponible",
@@ -1817,6 +1815,6 @@
     "titulo": "PlayStation PS5 Slim digital 825GB",
     "vendedor": "MaxiHome",
     "producto": "PS5 Digital",
-    "visto": "2026-11-27 20:44"
+    "visto": "2026-11-28 01:59"
   }
 }
